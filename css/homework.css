@@ -1,0 +1,40 @@
+/* .heading{
+    font-style: italic;
+    text-align: center;
+}
+.t-center{
+    text-align: center;
+    margin-bottom: 20px;
+} */
+
+/* .cities{
+    width: 300px;
+    list-style: none;
+    margin: auto;
+}
+.cities .city{
+    background-color: skyblue;
+    font-size: 30px;
+    padding: 15px;
+    margin-bottom: 5px;
+} */
+
+
+*{
+    margin: 0px;
+}
+.banner {
+    background-image: url("https://images.unsplash.com/photo-1548834925-e48f8a27ae6f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80");
+    height: 100vh;
+    padding: 25% 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+}
+.banner h1{
+    color: white;
+    font-family: sans-serif;
+}
+
+
+*{margin: 0px;padding: 0px;box-sizing: border-box;}

@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+#first-span{
+    text-align: center;
+    display: block;
+    margin: 20px;
+    /* display: none;
+    visibility: hidden;
+    opacity: 0.5; */
+}
+/* .item{
+    width: 200px;
+    height: 200px;
+    border:1px solid red;
+    display: inline-block;
+} */
+ul li.list-item{
+    display: inline-block;
+}
+.item{
+    width: 20%;
+    height: 200px;
+    float: left;
+}
+
+.clear-fix{
+    clear: both;
+}
+.item.item1{
+    background-color: black;
+}
+.item.item2{
+    background-color: red;
+}
+.item.item3{
+    background-color: green;
+}
